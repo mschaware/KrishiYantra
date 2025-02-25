@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 crop recommendation features:
  -N_SOIL
  -P_SOIL
@@ -7,3 +8,7 @@ crop recommendation features:
  -ph
  -RAINFALL
  -STATE
+=======
+# KrishiYantra
+One stop solution for all the problems of farmer 
+>>>>>>> origin/main

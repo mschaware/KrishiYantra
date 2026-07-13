@@ -298,7 +298,7 @@ python app.py
 
 **Mayur Chaware**
 
-- LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mayur-chaware/)
+- LinkedIn: [https://linkedin.com/in/mayur-chaware](https://www.linkedin.com/in/mayur-chaware/)
 - GitHub: https://github.com/mschaware
 
 ---
